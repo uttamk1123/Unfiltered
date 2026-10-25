@@ -1,0 +1,13 @@
+# .NET
+bin/
+obj/
+*.user
+.vs/
+backend/Unfiltered.Api/App_Data/
+
+# React build output (copied into the API's wwwroot by `npm run build`)
+backend/Unfiltered.Api/wwwroot/
+
+# Node
+node_modules/
+frontend/dist/
